@@ -1,3 +1,5 @@
+# Family reason to block
+sarahah.com
 # Admiral
 abandonedclover.com
 abruptroad.com
@@ -124,4 +126,5 @@ premium-videos.telly.com
 az43064.vo.msecnd.net
 acr0.samsungcloudsolution.com
 vdterms.samsungcloudsolution.com
+# Minecraft
 snoop.minecraft.net
