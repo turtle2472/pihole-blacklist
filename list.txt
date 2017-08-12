@@ -1,3 +1,4 @@
+# Admiral
 abandonedclover.com
 abruptroad.com
 actuallysheep.com
@@ -113,3 +114,14 @@ tritetongue.com
 unknowntray.com
 unusualtitle.com
 voicevegetable.com
+# Samsung TVs
+lcprd1.samsungcloudsolution.net
+time.samsungcloudsolution.com
+oempprd.samsungcloudsolution.com
+cdn.samsungcloudsolution.com
+coordinator-production-28516768.us-east-1.elb.amazonaws.com
+premium-videos.telly.com
+az43064.vo.msecnd.net
+acr0.samsungcloudsolution.com
+vdterms.samsungcloudsolution.com
+snoop.minecraft.net
