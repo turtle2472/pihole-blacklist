@@ -145,3 +145,5 @@ vdterms.samsungcloudsolution.com
 acr0.samsungcloudsolution.com
 # Minecraft
 snoop.minecraft.net
+# Misc
+coin-hive.com
